@@ -1,0 +1,38 @@
+{
+  "name": "react-native-signin-with-google",
+  "version": "1.0.0",
+  "description": "Google login with single click and get signIn data...",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm install @react-native-google-signin/google-signin"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-google-signin",
+    "google-signin"
+  ],
+  "author": "Innvonix Tech Solutions Private Limited",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "readme": "Google login with single click and get data...",
+  "peerDependencies": {
+    "@react-native-google-signin/google-signin": "^7.0.4",
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": "https://github.com/InvxPM/react-native-signin-with-google",
+  "bugs": {
+    "url": "https://github.com/InvxPM/react-native-signin-with-google/issues"
+  },
+  "homepage": "https://github.com/InvxPM/react-native-signin-with-google#readme",
+  "devDependencies": {
+    "@react-native-google-signin/google-signin": "^7.2.2",
+    "react": "17.0.2",
+    "react-native": "^0.65.1"
+  },
+  "dependencies": {
+    "@react-native-google-signin/google-signin": "^7.0.4"
+  }
+}
